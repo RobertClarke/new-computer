@@ -27,8 +27,6 @@ Unchecked:
 **Keyboard**
 
 * Use F1, F2 as standard function keys: ON
-* Turn off spotlight (use Alfred instead)
-	* Keyboard -> Shortcuts -> Spotlight -> Deselect all
 * Customize control strip -> Delete siri from touchbar
 * Touch Bar Shows -> F1, F2, etc. Keys
 
