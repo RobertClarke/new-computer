@@ -414,20 +414,6 @@ defaults -currentHost write com.apple.ImageCapture disableHotPlug -bool true
 
 
 #############################################
-### Install dotfiles repo, run link script
-#############################################
-# TODO: 
-# clean up my personal repo to make it public
-# dotfiles for vs code, emacs, gitconfig, oh my zsh, etc. 
-# git clone git@github.com:nnja/dotfiles.git
-# cd dotfiles
-# fetch submodules for oh-my-zsh
-# git submodule init && git submodule update && git submodule status
-# make symbolic links and change shell to zshell
-# ./makesymlinks.sh
-# upgrade_oh_my_zsh
-
-#############################################
 ### Lost notice
 #############################################
 
