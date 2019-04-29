@@ -1,3 +1,13 @@
+# Install
+
+## Install from script:
+
+Open the terminal, then:
+
+```sh
+bash -c "`curl -L https://raw.githubusercontent.com/RobertClarke/new-computer/master/setup.sh`"
+```
+
 # Manual Configuration
 
 These apps need to be configured manually.
