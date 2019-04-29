@@ -417,7 +417,7 @@ defaults -currentHost write com.apple.ImageCapture disableHotPlug -bool true
 ### Lost notice
 #############################################
 
-defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "This laptop is firmware protected and is worth nothing when lost. Please return for a reward. Email: robert@rjfc.net. Phone: +1 425 442 6485"
+sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "This laptop is firmware protected and is worth nothing when lost. Please return for a reward. Email: robert@rjfc.net. Phone: +1 425 442 6485"
 
 
 echo ""
