@@ -321,12 +321,6 @@ defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
 # Finder: show all filename extensions
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 
-# Remove the auto-hiding Dock delay
-defaults write com.apple.dock autohide-delay -float 0
-
-# Automatically hide and show the Dock
-defaults write com.apple.dock autohide -bool true
-
 # Only Show Open Applications In The Dock  
 defaults write com.apple.dock static-only -bool true
 
