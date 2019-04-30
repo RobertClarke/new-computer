@@ -172,6 +172,7 @@ brew install ispell
 brew cask install docker
 brew install postgresql
 brew install redis
+brew install node
 
 
 ### Command line tools - install new ones, update others to latest version
