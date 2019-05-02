@@ -173,7 +173,7 @@ brew cask install docker
 brew install postgresql
 brew install redis
 brew install node
-
+brew install terraform
 
 ### Command line tools - install new ones, update others to latest version
 brew install git  # upgrade to latest
