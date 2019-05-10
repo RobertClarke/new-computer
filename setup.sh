@@ -279,6 +279,7 @@ read response
 if [ "$response" != "${response#[Yy]}" ]
 then
 	mas install 441258766  # Magnet
+	mas install 960276676 # taurine
 else
 	cecho "App Store login not complete. Skipping installing App Store Apps" $red
 fi
