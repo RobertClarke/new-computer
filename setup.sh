@@ -175,6 +175,7 @@ brew install postgresql
 brew install redis
 brew install node
 brew install terraform
+brew install go
 
 ### Command line tools - install new ones, update others to latest version
 brew install git  # upgrade to latest
