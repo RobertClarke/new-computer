@@ -176,6 +176,7 @@ brew install redis
 brew install node
 brew install terraform
 brew install go
+brew install webpack
 
 ### Command line tools - install new ones, update others to latest version
 brew install git  # upgrade to latest
