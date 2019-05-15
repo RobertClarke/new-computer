@@ -177,6 +177,9 @@ brew install node
 brew install terraform
 brew install go
 brew install webpack
+npm install -g n
+npm install -g webpack
+npm install -g webpack-cli
 
 ### Command line tools - install new ones, update others to latest version
 brew install git  # upgrade to latest
