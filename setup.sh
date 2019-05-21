@@ -182,6 +182,7 @@ brew install node
 npm install -g n
 npm install -g webpack
 npm install -g webpack-cli
+npm install -g serverless
 
 ### Command line tools - install new ones, update others to latest version
 brew install git  # upgrade to latest
