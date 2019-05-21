@@ -168,19 +168,20 @@ brew cask install 1password
 ### Developer Tools
 brew install ispell
 
-
 ### Development
 brew cask install docker
 brew install postgresql
 brew install redis
-brew install node
 brew install terraform
 brew install go
 brew install webpack
+brew install awscli
+
+### NPM
+brew install node
 npm install -g n
 npm install -g webpack
 npm install -g webpack-cli
-brew install awscli
 
 ### Command line tools - install new ones, update others to latest version
 brew install git  # upgrade to latest
