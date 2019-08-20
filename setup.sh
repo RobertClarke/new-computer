@@ -224,7 +224,7 @@ brew cask install muzzle # hide notifications while screen sharing
 
 
 ### Keyboard & Mouse
-# brew cask install scroll-reverser  # allow natural scroll for trackpad, not for mouse
+brew cask install scroll-reverser  # allow natural scroll for trackpad, not for mouse
 
 
 ### Quicklook plugins https://github.com/sindresorhus/quick-look-plugins
