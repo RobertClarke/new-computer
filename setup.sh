@@ -163,9 +163,6 @@ done
 echo "Starting brew app install..."
 
 ### Developer Tools
-brew cask install 1password
-
-### Developer Tools
 brew install ispell
 
 ### Development
