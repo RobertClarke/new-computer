@@ -221,6 +221,7 @@ brew cask install dropbox
 brew cask install betterzip
 brew cask install caffeine  # keep computer from sleeping
 brew cask install muzzle # hide notifications while screen sharing
+brew cask install cryptomator
 
 
 ### Keyboard & Mouse
